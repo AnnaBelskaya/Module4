@@ -53,7 +53,7 @@ public class Functions {
         }
         System.out.println("Do you want to continue?");
         String answer = sc.next();
-        if (!answer.toLowerCase().equals("yes")) {
+        if (answer.toLowerCase().equals("yes")) {
             greatMethod();
         }
     }

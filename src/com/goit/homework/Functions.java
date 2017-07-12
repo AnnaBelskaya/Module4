@@ -1,4 +1,4 @@
-    package com.goit.homework;
+package com.goit.homework;
 import java.util.Scanner;
 
 public class Functions {
